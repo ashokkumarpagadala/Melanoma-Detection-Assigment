@@ -10,7 +10,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 The data set contains the following diseases:
 
-![datasetdf](https://github.com/ashokkumarpagadala/Melanoma-Detection-Assigment/blob/main/Readme_images/Datasetdf.png)
+![datasetdf](https://github.com/ashokkumarpagadala/Melanoma-Detection-Assigment/blob/main/Datasetdf.png)
 
 ![datasetplot](https://github.com/ashokkumarpagadala/Melanoma-Detection-Assigment/blob/main/DatasetPlot.png)
 
